@@ -25,6 +25,7 @@ Computer Vision:
 
 Projects:
 - [Marketplace Service Department Analysis](https://github.com/NemaOchka/Marketplace-Service-Department-Analysis/blob/main/README.md)
+- [Regression problem on tabular data](https://github.com/NemaOchka/Regression_problem_on_tabular_data)
 
 Sources:
 - [Data Science interview questions and answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)

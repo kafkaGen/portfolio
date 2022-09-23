@@ -21,11 +21,13 @@ Courses:
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
   
-Computer Vision:
+Computer Vision projects:
+- [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion_detection)
 
 Projects:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)
 - [Regression problem on tabular data](https://github.com/kafkaGen/Regression_problem_on_tabular_data)
+- [30 day LifeTime prediction](https://github.com/kafkaGen/30_day_ltv_prediciton)
 
 Sources:
 - [Data Science interview questions and answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)

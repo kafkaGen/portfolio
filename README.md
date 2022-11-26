@@ -23,8 +23,8 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
  - DataRoot University: 
-  - [Data Science Fundamentals](https://dhired.com/course/data-science-fundamentals-13mx228)
-  - [Practical Deep Learning with PyTorch](https://dhired.com/course/practical-deep-learning-with-pytorch-13mx402)
+    - [Data Science Fundamentals](https://dhired.com/course/data-science-fundamentals-13mx228)
+    - [Practical Deep Learning with PyTorch](https://dhired.com/course/practical-deep-learning-with-pytorch-13mx402)
 
 ## Projects:
 Computer Vision:

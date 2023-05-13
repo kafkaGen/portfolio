@@ -28,7 +28,9 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
 
 ## Projects:
 Computer Vision:
-- [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion_detection)
+- [Cifar10](https://github.com/kafkaGen/cifar10)
+- [RSNA](https://github.com/kafkaGen/RSNA)
+- [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
 
 Supervised:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)

@@ -32,7 +32,7 @@ Computer Vision:
 - [RSNA](https://github.com/kafkaGen/RSNA)
 - [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
 
-Supervised:
+Tabular:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)
 - [Regression problem on tabular data](https://github.com/kafkaGen/Regression_problem_on_tabular_data)
 - [30 day LifeTime prediction](https://github.com/kafkaGen/30_day_ltv_prediciton)

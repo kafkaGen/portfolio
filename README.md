@@ -31,6 +31,7 @@ Computer Vision:
 - [Cifar10](https://github.com/kafkaGen/cifar10)
 - [RSNA](https://github.com/kafkaGen/RSNA)
 - [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
+- [VIN characters classification](https://github.com/kafkaGen/VIN_classification)
 
 Tabular:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)

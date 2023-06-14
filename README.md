@@ -32,6 +32,7 @@ Computer Vision:
 - [RSNA](https://github.com/kafkaGen/RSNA)
 - [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
 - [VIN characters classification](https://github.com/kafkaGen/VIN_classification)
+- [Airbus](https://github.com/kafkaGen/Airbus)
 
 Tabular:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)

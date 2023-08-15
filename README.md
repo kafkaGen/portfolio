@@ -23,12 +23,12 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- DataRoot University: 
+  - [Data Science Fundamentals](https://dhired.com/course/data-science-fundamentals-13mx228)
+  - [Practical Deep Learning with PyTorch](https://dhired.com/course/practical-deep-learning-with-pytorch-13mx402)
 - Generative Adversarial Networks (GANs) Specialization:
   - [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/)
- - DataRoot University: 
-    - [Data Science Fundamentals](https://dhired.com/course/data-science-fundamentals-13mx228)
-    - [Practical Deep Learning with PyTorch](https://dhired.com/course/practical-deep-learning-with-pytorch-13mx402)
 
 ## Projects:
 Computer Vision:
@@ -37,6 +37,9 @@ Computer Vision:
 - [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
 - [VIN characters classification](https://github.com/kafkaGen/VIN_classification)
 - [Airbus](https://github.com/kafkaGen/Airbus)
+
+NLP:
+- [QuoraInsincereQuestionsClassification](https://github.com/kafkaGen/QuoraInsincereQuestionsClassification)
 
 Tabular:
 - [Marketplace Service Department Analysis](https://github.com/kafkaGen/Marketplace-Service-Department-Analysis/blob/main/README.md)

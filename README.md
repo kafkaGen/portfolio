@@ -22,6 +22,7 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - Generative Adversarial Networks (GANs) Specialization:
   - [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/)

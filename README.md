@@ -26,9 +26,11 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
 - DataRoot University: 
   - [Data Science Fundamentals](https://dhired.com/course/data-science-fundamentals-13mx228)
   - [Practical Deep Learning with PyTorch](https://dhired.com/course/practical-deep-learning-with-pytorch-13mx402)
+- [LP NLP 2023: Syllabus](https://docs.google.com/spreadsheets/d/1-IN1Q9RH17KJpcLzdXkdtOXKB20nGTGphNRngSMTe4M/edit#gid=0) 
 - Generative Adversarial Networks (GANs) Specialization:
   - [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/)
+  - [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
 
 ## Projects:
 Computer Vision:

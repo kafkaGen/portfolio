@@ -52,3 +52,5 @@ Tabular:
 ## Sources:
 - [Data Science interview questions and answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Design Patterns](https://refactoring.guru/design-patterns/what-is-pattern)
+- [Refactoring](https://refactoring.guru/refactoring)

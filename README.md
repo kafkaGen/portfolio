@@ -31,6 +31,8 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/programs/program-natsional-nii-tiekhnichnii-univiersitiet-ukrayini-kiyivs-kii/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/)
   - [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+- Machine Learning Engineering for Production (MLOps) Specialization:
+  - [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
 
 ## Projects:
 Computer Vision:

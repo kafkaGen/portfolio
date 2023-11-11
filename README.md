@@ -33,6 +33,7 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
 - Machine Learning Engineering for Production (MLOps) Specialization:
   - [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
+  - [Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops#modules)
 
 ## Projects:
 Computer Vision:
@@ -41,6 +42,7 @@ Computer Vision:
 - [Soil erosion detection](https://github.com/kafkaGen/Soil_erosion)
 - [VIN characters classification](https://github.com/kafkaGen/VIN_classification)
 - [Airbus](https://github.com/kafkaGen/Airbus)
+- [face_regocnition](https://github.com/kafkaGen/face_regocnition)
 
 NLP:
 - [QuoraInsincereQuestionsClassification](https://github.com/kafkaGen/QuoraInsincereQuestionsClassification)

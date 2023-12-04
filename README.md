@@ -45,7 +45,7 @@ Computer Vision:
 - [VIN characters classification](https://github.com/kafkaGen/VIN_classification)
 - [Airbus](https://github.com/kafkaGen/Airbus)
 - [face_regocnition](https://github.com/kafkaGen/face_regocnition)
-- [panoptic-segmentator](https://github.com/kafkaGen/panoptic-segmentator)
+- [panoptic-segmentator](https://github.com/kafkaGen/panoptic_segmentator)
 
 NLP:
 - [QuoraInsincereQuestionsClassification](https://github.com/kafkaGen/QuoraInsincereQuestionsClassification)

@@ -36,6 +36,8 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
   - [Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops#modules)
   - [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops)
   - [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops)
+- [Computer Vision School: Advanced](https://aihouse.org.ua/en/event/computer-vision-school-advanced/)
+- [Вступ до MLOps/LLMOps](https://lms.proboost.guru/en/experiences/clmryh0r36hur0842xm35m7zq/program?activeTab=content&lessonId=clo3lijtwnb2n0842b332jilu)
 
 ## Projects:
 Computer Vision:

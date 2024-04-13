@@ -10,6 +10,7 @@ Here you can familiarize yourself with my theoretical knowledge and practical sk
 - [How Linux works](https://learning.oreilly.com/library/view/how-linux-works/9781098128913/)
 - [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781491957653/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+- [Head First Design Patterns: A Brain-friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ## Courses:
 - Machine Learning Specialization:
